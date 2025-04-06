@@ -58,4 +58,3 @@ All endpoints require an authorization token except for registration and login.
 ##### Notes
 - All protected endpoints require an `Authorization` header with `Bearer <access_token>`.
 - Data-modifying operations (POST, PUT, DELETE, PATCH) require appropriate permissions (admin for most).
-```
