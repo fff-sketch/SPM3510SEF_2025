@@ -1,5 +1,6 @@
 # SPM3510SEF_2025
-
+### Frontend - Android App
+## Backend - Server
 #### Starting the Server
 To start the server, run:
 ```bash
