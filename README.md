@@ -5,13 +5,13 @@
 ##### Project Topic : Shopping App
 ##### Simulation (Figma) : https://www.figma.com/proto/8HHmGuPE0PzGZY3xRuwOsR/Shopping-App?node-id=9-68&t=yPYusViAMkNsT0xT-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=9%3A68![image](https://github.com/user-attachments/assets/22594cc8-76ab-4aea-8724-3363e519af41)
 
-#### Starting the Server
+### Starting the Server
 To start the server, run:
 ```bash
 npm start
 ```
 
-#### API Endpoints
+### API Endpoints
 All endpoints require an authorization token except for registration and login.
 
 ##### Authentication
